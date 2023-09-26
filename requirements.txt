@@ -1,0 +1,8 @@
+accelerate
+datasets
+torch>=2.0
+transformers
+tqdm
+sentencepiece
+wandb
+protobuf
